@@ -1,2 +1,2 @@
 # exercicio-css
-<img src="css=html.png" 
+<img src="css=html.png">
